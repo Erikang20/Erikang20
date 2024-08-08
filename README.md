@@ -11,4 +11,3 @@
 
 
 [![Erikang20's GitHub | Stats](https://stats.quira.sh/Erikang20/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Erikang20)
-[![Erikang20's GitHub | Languages Over Time](https://stats.quira.sh/Erikang20/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Erikang20)
