@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Erikang20's GitHub | Stats](https://stats.quira.sh/Erikang20/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Erikang20)
