@@ -14,5 +14,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/erika-angarita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erika-angarita/" height="30" width="40" /></a>
 </p>
 
-
-[![Erikang20's GitHub | Stats](https://stats.quira.sh/Erikang20/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Erikang20)
