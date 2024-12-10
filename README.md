@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
-<h3 align="center">A frontend developer from Colombia 🇨🇴 </h3>
+<h3 align="center">A frontend developer 🇨🇴 🇺🇸/h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <div display="flex" justify-content="space-between"> 
